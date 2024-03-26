@@ -4,7 +4,6 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
