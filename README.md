@@ -3,7 +3,7 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<h2 align="center"> ### Hi there, I am Marian Cătălin</h2>
+<h2 align="center"> Hi there, I am Marian Cătălin</h2>
 <div align="center">
 </div>
 <p align="center">
