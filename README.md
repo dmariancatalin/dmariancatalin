@@ -1,4 +1,4 @@
-### Hi there 👋, I am... Cătălin
+### Hi there 👋, I am... Marian
 #### Marian Cătălin
 ![Marian Cătălin](https://i.imgur.com/fOupTmS.jpeg)
 
