@@ -11,7 +11,7 @@
 <div align="center">
 </div>
 <h3 align="center">
-  <samp>Aspiring Junior Manual Tester with a solid understanding of software testing principles and a commitment to ensuring the reliability and functionality of software applications. Eager to contribute my meticulous attention to detail, analytical mindset, and passion for quality assurance in a dynamic team environment. Seeking an entry-level position where I can leverage my testing skills, learn from experienced professionals, and actively contribute to the success of software development projects.
+  <samp> Aspiring Junior Manual Tester with a solid understanding of software testing principles and a commitment to ensuring the reliability and functionality of software applications. Eager to contribute my meticulous attention to detail, analytical mindset, and passion for quality assurance in a dynamic team environment. Seeking an entry-level position where I can leverage my testing skills, learn from experienced professionals, and actively contribute to the success of software development projects.
   </samp>
   <br> <br>
 </h3>
@@ -40,11 +40,11 @@
 
 <h2 align="center">💬 Softskills
 </h2>
-<p align="center">Team work,
+<b><p align="center">Team work,
 Problem solving,
 Strong Adaptation Skills,
 High Analysis Skills,
-Communicative.</p>
+Communicative.</p> <b>
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
