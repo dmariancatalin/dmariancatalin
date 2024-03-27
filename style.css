@@ -13,7 +13,7 @@
 span{
     animation: mover 6s linear infinite;
     display: inline-block;
-    color: #fff;
+    color: #0000;
     font-weight: bolder;
 }
 @keyframes mover
