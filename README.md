@@ -21,9 +21,7 @@
 <h2 align="center"> 🔭 Technical Skills</h2>
 <p align="center">
 </p>
-<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Postman-blue?logo=Postman&color=white">
+<p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jira-blue?logo=Jira&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Trello-blue?logo=trello&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/JSON-blue?logo=JSON&color=black">
@@ -31,10 +29,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue?logo=SQL">
 <img alt="Static Badge" src="https://img.shields.io/badge/Qase-purple?logo=QASE">
 <img alt="Static Badge" src="https://img.shields.io/badge/Testrail-purple?logo=Testrail&color=blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-purple?logo=Python&color=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/PyTest-purple?logo=PyTest&color=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Selenium-purple?logo=Selenium&color=white">
 </p>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,postman,selenium,sqlite" /><br>
+</div>
+
 
 <hr>
 
@@ -56,7 +58,7 @@ Communicative.</p> <b>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/dmariancatalin/About-me" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </p>
 
