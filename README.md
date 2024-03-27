@@ -6,11 +6,11 @@
 <h2 align="center"> Hi there, I am Marian Cătălin</h2>
 <div align="center">
 </div>
-<p align="center">
+<h3 align="center">
   <samp>Aspiring Junior Manual Tester with a solid understanding of software testing principles and a commitment to ensuring the reliability and functionality of software applications. Eager to contribute my meticulous attention to detail, analytical mindset, and passion for quality assurance in a dynamic team environment. Seeking an entry-level position where I can leverage my testing skills, learn from experienced professionals, and actively contribute to the success of software development projects.
   </samp>
   <br> <br>
-</p>
+</h3>
 
 <hr>
 
