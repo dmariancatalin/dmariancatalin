@@ -17,7 +17,20 @@
 <h2 align="center"> 🔭 Technical Skills</h2>
 <p align="center">
 </p>
-<p align="center">HTML, Postman, CSS, Jira, Trello, JSON, XML, SQL, Qase, Testrail, Python, PyTest, Selenium.</p>
+<p align="center"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Postman-blue?logo=Postman&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jira-blue?logo=Jira&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Trello-blue?logo=trello&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON-blue?logo=JSON&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/XML-blue?logo=XML&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue?logo=SQL">
+<img alt="Static Badge" src="https://img.shields.io/badge/Qase-purple?logo=QASE">
+<img alt="Static Badge" src="https://img.shields.io/badge/Testrail-purple?logo=Testrail&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-purple?logo=Python&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/PyTest-purple?logo=PyTest&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Selenium-purple?logo=Selenium&color=white">
+</p>
 
 <hr>
 
