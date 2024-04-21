@@ -1,7 +1,6 @@
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&random=false&width=650&height=250&lines=Hello+there%F0%9F%91%8B;I'm+Marian+Catalin!" alt="Typing SVG" /></a>
